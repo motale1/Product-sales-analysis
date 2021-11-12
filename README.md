@@ -6,7 +6,7 @@ The board is asking to see how volume looked in Q2. I got some data (attached), 
 
 PROCESS
 
-Data cleaning, Data wrangling, Exploratory data analysis, and Data visualisation with Microsoft Excel
+Data cleaning, Data wrangling, Exploratory data analysis, and Data visualisation in Microsoft Excel
 
 CONCLUSION
 
